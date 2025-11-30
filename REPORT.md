@@ -1,7 +1,7 @@
 
 # mainpipe – Take-Home Data Pipeline Report
 
-This report explains the architecture, design decisions, trade-offs, and evaluation alignment of the **mainpipe** LLM pre-training data pipeline.
+This report explains the architecture, design decisions, trade-offs made for **mainpipe** LLM pre-training data pipeline.
 
 ---
 
@@ -246,7 +246,7 @@ For large-scale corpora:
 
 # 18. Conclusion
 
-This pipeline is a clean, production-inspired, interview-ready demonstration of data preprocessing for LLM pre-training. It balances:
+This pipeline is a clean and production-inspired for LLM pre-training. It balances:
 
 - Practicality  
 - Observability  
@@ -254,4 +254,3 @@ This pipeline is a clean, production-inspired, interview-ready demonstration of 
 - Engineering hygiene  
 - Scalability  
 
-and aligns directly with the assignment's evaluation metrics.
