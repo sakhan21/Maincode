@@ -1,0 +1,9 @@
+pyyaml
+langdetect
+tiktoken
+beautifulsoup4
+lxml
+numpy
+matplotlib
+# detoxify
+# torch

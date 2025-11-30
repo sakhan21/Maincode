@@ -1,0 +1,59 @@
+{
+  "total_records": 269378,
+  "kept_records": 38219,
+  "dropped_records": 231159,
+  "drop_reason_counts": {
+    "low_char_diversity": 152665,
+    "non_english": 33267,
+    "too_short_for_lang": 14802,
+    "too_short": 15102,
+    "too_long": 1308,
+    "markup_heavy": 17,
+    "long_repeats": 537,
+    "exact_dup": 13448,
+    "lang_error": 13
+  },
+  "language_counts": {
+    "en": 230867,
+    "de": 10207,
+    "nl": 214,
+    "es": 8597,
+    "da": 825,
+    "no": 216,
+    "fr": 1384,
+    "ro": 231,
+    "et": 8,
+    "ca": 1240,
+    "af": 91,
+    "sl": 9,
+    "sv": 257,
+    "cy": 20,
+    "it": 233,
+    "pt": 61,
+    "sk": 18,
+    "id": 21,
+    "hr": 9,
+    "cs": 2,
+    "fi": 12,
+    "lt": 7,
+    "sq": 12,
+    "th": 1,
+    "pl": 7,
+    "tl": 3,
+    "so": 7,
+    "bg": 2,
+    "ru": 2
+  },
+  "pii_summary": {
+    "email": 4537,
+    "ip": 5072,
+    "phone": 41112
+  },
+  "token_len_summary": {
+    "mean": 74.39901619613282,
+    "p50": 68.0,
+    "p90": 113.0,
+    "p99": 165.0,
+    "max": 1992
+  }
+}
