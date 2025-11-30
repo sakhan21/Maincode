@@ -121,7 +121,7 @@ This will:
 
 ```powershell
 python -m venv venv
-.env\Scripts\Activate.ps1
+.\env\Scripts\Activate.ps1
 pip install -r requirements.txt
 ```
 
@@ -138,7 +138,7 @@ run_pipeline.bat
 Or via Python:
 
 ```powershell
-.env\Scripts\Activate.ps1
+.\env\Scripts\Activate.ps1
 python -m mainpipe.cli --config configs/local.yaml
 ```
 
