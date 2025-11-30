@@ -77,7 +77,7 @@ Download from:
 https://www.python.org/downloads/windows/
 
 **Important:** Check the box  
-✔ *“Add Python to PATH”*
+ *“Add Python to PATH”*
 
 Verify:
 
